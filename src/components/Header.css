@@ -1,0 +1,22 @@
+.my-flex-card > div > div.card {
+    height: calc(100% - 15px);
+    margin-bottom: 15px;
+}
+
+.header {
+    height: 500px;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.frontCover{
+    height: 500px;
+    display:block; 
+    margin:auto;
+}
+
+.loginImg[src]{
+    height: 70px;
+    width:  70px;
+}

@@ -1,0 +1,13 @@
+img
+{
+   width: 40%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.pinH {
+    height: 400px !important;
+}
+.innerBlace{
+    background-color: rgb(33,37,41);
+}

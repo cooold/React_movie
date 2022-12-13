@@ -1,0 +1,9 @@
+.cardText{
+    color:Black; 
+    text-decoration: none; 
+    font-weight:bold;
+}
+
+.dateRight{
+    text-align:right;
+}
